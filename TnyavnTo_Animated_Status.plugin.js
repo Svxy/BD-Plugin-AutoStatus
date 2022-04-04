@@ -1,4 +1,4 @@
-//META{"name":"TnyavnTo AnimatedStatus","source":"https://github.com/Svxy/BD-Plugin-AutoStatus/blob/Plugin1/Animated_Status.plugin.js","website":"https://sna-organics.com"}*//
+//META{"name":"TnyavnTo AnimatedStatus","source":"https://github.com/Svxy/BD-Plugin-AutoStatus/blob/Plugin1/TnyavnTo_Animated_Status.plugin.js","website":"https://sna-organics.com"}*//
 class TnyavnToAnimatedStatus {
     /* BD functions */
     getName() { return "TnyavnTo Animated Status"; }
