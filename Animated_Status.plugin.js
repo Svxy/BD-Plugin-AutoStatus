@@ -1,4 +1,5 @@
-class AnimatedStatus {
+//META{"name":"TnyavnTo AnimatedStatus","source":"https://github.com/Svxy/BD-Plugin-AutoStatus/blob/Plugin1/Animated_Status.plugin.js","website":"https://sna-organics.com"}*//
+class TnyavnToAnimatedStatus {
     /* BD functions */
     getName() { return "TnyavnTo Animated Status"; }
     getVersion() { return "1.0.0"; }
@@ -6,11 +7,11 @@ class AnimatedStatus {
     getDescription() { return "Animate your Discord status. Remade by TnyavnTo!"; }
 
     SetData(key, value) {
-        BdApi.setData("AnimatedStatus", key, value);
+        BdApi.setData("TnyavnTo AnimatedStatus", key, value);
     }
 
     GetData(key) {
-        return BdApi.getData("AnimatedStatus", key);
+        return BdApi.getData("TnyavnTo AnimatedStatus", key);
     }
 
     /* Code related to Animations */
